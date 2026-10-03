@@ -1,0 +1,102 @@
+{
+  "item": {
+    "id": "moe.mcns.Eclipse",
+    "restype": "quick_app",
+    "name": "Eclipse星语",
+    "description": "Eclipse星语是一个可独立使用的适配小米 Vela 系统的 AI 对话快应用，支持多模型对话、多供应商管理、设备控制、文件读写、跨会话长期记忆与脚本执行等多样功能，采取买断制并结合模型按量计费的付费方式，由 MCNS 开发与制作",
+    "preview": [
+      "media/preview_0.png",
+      "media/preview_1.png",
+      "media/preview_2.png",
+      "media/preview_3.png",
+      "media/preview_4.png",
+      "media/preview_5.png"
+    ],
+    "icon": "media/icon_round.png",
+    "cover": "media/504068dfb1bd9227b930db5bda5cb60f_720.png",
+    "author": [
+      {
+        "name": "GoldOrca",
+        "bindABAccount": true
+      },
+      {
+        "name": "B4QAQ",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方文档",
+      "url": "https://docs.b4qaq.cn/docs/eclipse/",
+      "icon": "book"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmrw5xring": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmrw6": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmb9p": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws3": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws4xring": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws4": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws441": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws541": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    },
+    "xmws5": {
+      "version": "261002.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
+      "versionCode": 8
+    }
+  },
+  "ext": {
+    "bundledResources": {
+      "recommend": [
+        {
+          "type": "plugin",
+          "name": "SimpleFetch"
+        }
+      ]
+    }
+  }
+}
