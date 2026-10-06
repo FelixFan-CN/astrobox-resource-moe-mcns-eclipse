@@ -34,67 +34,133 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws3": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws4": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws441": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws541": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     },
     "xmws5": {
-      "version": "261002.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261002.1.rpk",
-      "versionCode": 8
+      "version": "261006.1",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
+      "versionCode": 9,
+      "updatelogs": [
+        {
+          "version": "261006.1",
+          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+        }
+      ]
     }
   },
   "ext": {
     "bundledResources": {
-      "recommend": [
+      "recommended": [
         {
           "type": "plugin",
-          "name": "SimpleFetch"
+          "id": "SimpleFetch"
         }
       ]
     }
