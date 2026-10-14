@@ -34,123 +34,123 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmrw6": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmb10p": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmb9p": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws3": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws4xring": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws4": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws441": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws541": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     },
     "xmws5": {
-      "version": "261006.1",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261006.1.rpk",
-      "versionCode": 9,
+      "version": "261014",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261014.rpk",
+      "versionCode": 12,
       "updatelogs": [
         {
           "version": "261006.1",
-          "content": "261006(Helios)\nFix：\n- 修复9P发送消息时不会自动滚动到底部，反而返回最上方的问题 @小周\n本版本为小版本修复更新,更多内容请见下次正式版更新"
+          "content": "Fix：\n- 修复 部分设备安装重启问题(本质是ABCC的VC问题)\n  Feat：\n- 新增 文件管理按会话分组与文件操作审计\n- 新增 [试验]控制台日志持久化\n- 新增 [试验]多拼输入法\n- 新增 会话分片保存，以减少数据量，减少卡顿\n本版本为较小版本BUG修复更新,更多内容请见下次正式版更新"
         }
       ]
     }
