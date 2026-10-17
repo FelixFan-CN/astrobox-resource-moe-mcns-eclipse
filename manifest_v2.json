@@ -156,11 +156,12 @@
     }
   },
   "ext": {
+    "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
-      "recommend": [
+      "recommended": [
         {
           "type": "plugin",
-          "name": "SimpleFetch"
+          "id": "SimpleFetch"
         }
       ]
     }
