@@ -34,123 +34,123 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmrw5.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmrw5xring.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmrw6": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmrw6.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmb10p": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmb10p.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmb9p": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmb9p.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws3": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws3.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws4xring": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws4xring.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws4": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws4.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws441": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws441.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws541": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws541.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     },
     "xmws5": {
-      "version": "261018",
-      "file_name": "downloads/moe.mcns.Eclipse.release.261018-xmws5.rpk",
-      "versionCode": 14,
+      "version": "261115",
+      "file_name": "downloads/moe.mcns.Eclipse.release.261115.rpk",
+      "versionCode": 44,
       "updatelogs": [
         {
-          "version": "261008",
-          "content": "本次更新着重优化了圆屏设备输入法的体验，并新增最近对话显示的相关设置以减少数据过多带来的卡顿，同时优化包体积，下降了30KB\n祀好看捏～"
+          "version": "261115",
+          "content": "Fix：\n    修复 持续亮屏开启会卡死\n    修复 切换最近条数时会导致会话错乱\n    修复 Markdown表格显示异常\n    修复 工具调用边界处已输出的回答被清空（跨轮保留正文）\n    修复 工具多次调用无文本产出时长期「思考中/(无回复)」\n    修复 消息内容过长被截断，完整显示全部内容\n    修复 因卡顿导致对话顺序错乱\n    修复 直接透传联网搜索结果导致token浪费\n    修复 AI无法控制AI搜索结果长度\n Feat：\n    完善 多轮对话\n    优化 Markdown显示\n    新增 长按对话内容复制\n    新增 TokenPlan订阅计划\n    新增 主页统计信息多样化\n    新增 对话页面屏幕常亮\n    新增 AI设定，支持AI润色\n    新增 AI 思考过程展示\n    新增 工具调用徽标移至正文下方\n    新增 简化web_search搜索提示\n    新增 联网搜索：直连抓取模式，支持获取网页正文（免费）\n    新增 授权信息支持绑定设备至API\n\n（这卫戍协议怎么这么坏，玩这个跟进了邪教一样）"
         }
       ]
     }
